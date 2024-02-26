@@ -1,0 +1,8 @@
+com\bfxy\rabbit\api\exception\MessageException.class
+com\bfxy\rabbit\api\Message.class
+com\bfxy\rabbit\api\SendCallback.class
+com\bfxy\rabbit\api\exception\MessageRunTimeException.class
+com\bfxy\rabbit\api\MessageProducer.class
+com\bfxy\rabbit\api\MessageListener.class
+com\bfxy\rabbit\api\MessageType.class
+com\bfxy\rabbit\api\MessageBuilder.class
