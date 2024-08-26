@@ -11,7 +11,6 @@ import java.util.Map;
  * $Message
  * @author nly
  */
-//测试修改
 @Data
 public class Message implements Serializable {
 
